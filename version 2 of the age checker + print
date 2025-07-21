@@ -1,0 +1,12 @@
+age = int(input("Enter your age: "))
+
+if age >=18:    
+    print("contract agreement for the car wash service")
+    print("employer: John Smith")
+    print("employee:James Johnson")
+    print("the employer agrees to pay the employee 15.00 per hour for the car wash service")
+    print("the employee agrees to wash the car for the employer on saturdays")
+    print("the contract is in effect for 1 year starting from today")
+    print("sign here:__________________________________")
+else:
+    print("Access denied.")
